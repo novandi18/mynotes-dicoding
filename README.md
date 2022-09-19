@@ -5,3 +5,6 @@ Notes App built with React. With this app, you can save your notes, delete, and 
 ## Demo
 
 Link : https://novandi-mynotes-dicoding.netlify.app/
+
+## Reminder
+Don't forget to execute npm install
